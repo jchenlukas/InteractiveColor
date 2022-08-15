@@ -1,4 +1,5 @@
-# Color Theory
+<h1 align="center">Color Theory</h1>
+
 ### W4170 User Interface Design Final Project
 
 ![Website Home Page Screenshot](screenshots/Home.png)
